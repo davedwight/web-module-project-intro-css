@@ -81,17 +81,17 @@ nav a {
 }
 
 .orange {
-    background-color: orange;
+    background-color: #FF764E;
     margin-left: 10%;
 }
 
 .blue {
-    background-color: blue;
+    background-color: #5ED3EB;
     margin: 0 24%;
 }
 
 .yellow {
-    background-color: yellow;
+    background-color: #FFCD69;
     margin-right: 10%;
 }
 
@@ -117,4 +117,8 @@ nav a {
     line-height: 2;
     position: absolute;
     top: 20%;
+}
+
+.info {
+    background-color: #DDB9A3;
 }
